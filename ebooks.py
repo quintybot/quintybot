@@ -107,7 +107,7 @@ if __name__=="__main__":
            print ebook_tweet
     
         #if a tweet is very short, this will randomly add a second sentence to it.
-        if ebook_tweet != None and len(ebook_tweet) < 40:
+        if ebook_tweet != None and len(ebook_tweet) < 15:
             rando = random.randint(0,10)
             if rando == 0 or rando == 7: 
                 print "Short tweet. Adding another sentence randomly"
