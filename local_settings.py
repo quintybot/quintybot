@@ -1,8 +1,3 @@
-'''
-Local Settings for a heroku_ebooks account. #fill in the name of the account you're tweeting from here.
-'''
-
-#configuration
 MY_CONSUMER_KEY = 'XEkEFTRLILyEYTuOZs1b9oFp4'
 MY_CONSUMER_SECRET = 'wPpsIfFsZFg92XepcD3kNCSHlmBKoMBzp9jBoK8ag7WJ2JYbLM’ 
 MY_ACCESS_TOKEN_KEY = '897973893440434176-hmqqmnNIcJDWT5hPgDknHMOCxwguGdw'
